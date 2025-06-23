@@ -1,6 +1,6 @@
  B.Tech in CSE | KIIT University
  Exploring AI/ML, Data Analytics & Frontend Technologies
- Certified Data Analyst | InternQ
+ Certified Data Analyst | InternQ|
  Currently learning: ReactJS, SQL optimization, and Data storytelling
  Top 20 in Young Turks AI Contest | NSS Volunteer
  I love breaking down complex problems into simple, impactful solutions
