@@ -13,7 +13,7 @@ Python · SQL · JavaScript · ReactJS · HTML/CSS · Tableau · Excel · scikit
 Let's Connect
 ✉️ Email: pankhurisri034@gmail.com
 
-🌐 Portfolio:(https://pankhuri-portfolio.netlify.app/)
+🌐 Portfolio:(https://pankhuriportfolio.vercel.app/)
 
 💬 Instagram (Creative side): @pearl_it.up
 
