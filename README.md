@@ -1,4 +1,4 @@
- B.Tech in CSE | KIIT University
+ B.Tech in CSE | 
  Exploring AI/ML, Data Analytics & Frontend Technologies
  Certified Data Analyst | InternQ|
  Currently learning: ReactJS, SQL optimization, and Data storytelling
