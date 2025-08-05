@@ -16,6 +16,7 @@ Let's Connect
 🌐 Portfolio:(https://pankhuriportfolio.vercel.app/)
 
 💬 Instagram (Creative side): @pearl_it.up
+(https://www.instagram.com/pearl_it.up/profilecard/?igsh=MWw3bjlodWR2aDllbw==)
 
 📍 India
 
